@@ -1,0 +1,7 @@
+C:\Users\asus pc\RiderProjects\loops\loops\bin\Debug\loops.exe
+C:\Users\asus pc\RiderProjects\loops\loops\bin\Debug\loops.pdb
+C:\Users\asus pc\RiderProjects\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\asus pc\RiderProjects\loops\loops\obj\Debug\loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus pc\RiderProjects\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\asus pc\RiderProjects\loops\loops\obj\Debug\loops.exe
+C:\Users\asus pc\RiderProjects\loops\loops\obj\Debug\loops.pdb
